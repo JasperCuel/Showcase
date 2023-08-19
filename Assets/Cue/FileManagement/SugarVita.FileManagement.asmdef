@@ -1,0 +1,16 @@
+{
+    "name": "Cue.FileManagement",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5542419bc5407c146b6f49641b47ef6c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
